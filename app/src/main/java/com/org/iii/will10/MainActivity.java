@@ -155,7 +155,7 @@ public class MainActivity extends AppCompatActivity {
     public void test7(View v) {
         try {
             BufferedReader reader = new BufferedReader(
-                    new FileReader(new File(approot, "test.txt")));
+                    new FileReader(new File(approot, "test2.txt")));
             String line;
             if ( (line = reader.readLine()) != null) {
                 textView.append(line + "\n");
