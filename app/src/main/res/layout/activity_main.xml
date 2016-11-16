@@ -19,6 +19,41 @@
         android:text="test2"
         android:onClick="test2"
         />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="test3"
+        android:onClick="test3"
+        />
+
+    <Button
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="test4"
+    android:onClick="test4"
+    />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="test5"
+        android:onClick="test5"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="test6"
+        android:onClick="test6"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="test7"
+        android:onClick="test7"
+        />
     <TextView
         android:id="@+id/textView"
         android:layout_width="wrap_content"
